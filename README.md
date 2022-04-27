@@ -1,11 +1,11 @@
 # Đồ án quản lý thư viện
 
 ## Mô tả
-- Đây là một đồ án thuần Java, sử dụng JDBC để kết nối đến cơ sở dữ liệu.
+- Đây là một đồ án thuần Java, sử dụng JDBC để kết nối đến cơ sở dữ liệu, cơ sở dữ liệu được quản lý bởi Microsoft SQL Server 2014 (có file script để nạp dữ liệu và các mối hệ giữa các bảng).
 - Toàn bộ đều được viết trên thư viện Spring của Java.
-- Đồ án cũng sử dụng thêm Maven để quản lý dependencies.
+- Đồ án sử dụng thêm Maven để quản lý version và dependencies.
 - Đồ án được quản lý bởi IntelliJ IDEA của IntelliJ.
-- Giao diện dễ dùng, thân thiện với người sử dụng
+- Giao diện dễ dùng, thân thiện với người sử dụng.
 
 ## Hướng dẫn cài đặt
 Vì đồ án chạy thuần Windows nên các hệ điều hành khác đòi hỏi phải có máy ảo chạy hệ điều hành Windows 10. Để có thể kết nối với SQL Server 2014 thì trong hệ điều hành Windows 10 đó phải có Microsoft SQL Server 2014.
